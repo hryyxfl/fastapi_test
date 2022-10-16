@@ -1,0 +1,8 @@
+[
+    {
+        "username": "tom",
+        "password": "$pbkdf2-sha256$29000$A4Bw7h0jZEypVYrROmfMmQ$MPNwgYxH0Js8vf56ZgjKmFK4dZKIOlQlPi0BDShUI3A",
+        "is_superuser": false,
+        "status": true
+    }
+]
